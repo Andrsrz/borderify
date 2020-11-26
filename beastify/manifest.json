@@ -8,7 +8,7 @@
 		"48": "icons/beasts-48.png"
 	},
 	"permissions": ["activeTab"],
-	"browser_actions": {
+	"browser_action": {
 		"default_icon": "icons/beasts-32.png",
 		"default_title": "Beastify",
 		"default_popup": "popup/choose_beast.html"
