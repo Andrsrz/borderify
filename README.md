@@ -1,7 +1,7 @@
 # Borderify
 My first Firefox web extension.
 
-## Acknowladgment
+## Acknowledgement
 [Firefox WebExtension Tutorial](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension).
 
 ## License
